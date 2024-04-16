@@ -1,0 +1,31 @@
+.main{
+    margin-top: 45px;
+}
+
+#todoInput{
+    height: 35px;
+    font-size: 28px;
+    text-align: center;
+    border: solid 2px gray;
+    border-radius: 8px;
+}
+
+#addToDo{
+    width: 40px;
+    font-size: 28px;
+    border: solid 2px gray;
+    border-radius: 8px;
+    cursor: pointer;
+    background: none;
+}
+
+.todoStyle{
+    user-select: none;
+    font-size: 26px;
+    color: #232323;
+    cursor: pointer;
+}
+
+.todoComp{
+    text-decoration: line-through;
+}
